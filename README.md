@@ -81,8 +81,9 @@ module jk_flipflop (
 endmodule
 ~~~
 
-Developed by: SAM CHRIS M
-RegisterNumber: 24004124
+Developed by: SOMESHWAR KUMAR
+
+Register Number: 24901231
 
 
 **RTL LOGIC FOR FLIPFLOPS**
